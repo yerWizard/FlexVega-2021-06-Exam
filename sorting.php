@@ -40,7 +40,7 @@ function compare($a,$b)
     if ($a->getClientPoints() == $b->getClientPoints()) {
         return 0;
     }
-    return ($a->getClientPoints() < $b->getClientPoints()) ? -1 : 1;
+    return ($a->getClientPoints() > $b->getClientPoints()) ? -1 : 1;
 
 }
 
