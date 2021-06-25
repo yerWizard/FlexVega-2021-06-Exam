@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Kraken Pricing Backend
- * Plugin URI: http://www.mywebsite.com/my-first-plugin
- * Description: The very first plugin that I have ever created.
+ * Plugin URI: 
+ * Description: Examen FlexVega
  * Version: 1.0
- * Author: Your Name
- * Author URI: http://www.mywebsite.com
+ * Author: Miquel García Pérez
+ * Author URI: 
  */
 
  function kraken_init_backend(){
